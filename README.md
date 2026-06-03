@@ -53,7 +53,7 @@ Atualmente estudo programação, desenvolvimento web e engenharia de software, c
 ---
 ### 📈 Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight&include_all_commit=true)
 ---
 
 ## 📚 Atualmente Estudando
