@@ -50,24 +50,21 @@ Atualmente estudo programação, desenvolvimento web e engenharia de software, c
 
 ## 📊 Estatísticas
 
-<p>
-    <img
-        align="left"
-        alt="GitHub Stats"
-        height="200"
-        style="padding-right:10px;"
-        src="https://github-readme-stats.vercel.app/api?username=gusfavarini-lab&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-    />
+<div align="center">
 
-    <img
-        align="left"
-        alt="Tecnologias"
-        height="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusfavarini-lab&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-    />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusfavarini-lab&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
 
-<br clear="both"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusfavarini-lab&layout=compact&langs_count=9&theme=tokyonight" />
+
+</div>
+
+## 🔥 Sequência de Contribuições
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=gusfavarini-lab&theme=tokyonight&locale=pt_BR" />
+
+</div>
 
 ## 🔥 Sequência de Contribuições
 
