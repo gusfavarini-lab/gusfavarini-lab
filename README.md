@@ -37,7 +37,46 @@ Atualmente estudo programação, desenvolvimento web e engenharia de software, c
             src="https://custom-icon-badges.demolab.com/github/followers/gusfavarini-lab?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    </p>
+</p>
+
+<p align="left">
+    <img
+        src="https://komarev.com/ghpvc/?username=gusfavarini-lab&label=Visualizações%20do%20Perfil&color=0e75b6&style=for-the-badge"
+        alt="Contador de visitas"
+    />
+</p>
+
+<br/>
+
+## 📊 Estatísticas
+
+<p>
+    <img
+        align="left"
+        alt="GitHub Stats"
+        height="200"
+        style="padding-right:10px;"
+        src="https://github-readme-stats.vercel.app/api?username=gusfavarini-lab&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    />
+
+    <img
+        align="left"
+        alt="Tecnologias"
+        height="200"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusfavarini-lab&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    />
+</p>
+
+<br clear="both"/>
+
+## 🔥 Sequência de Contribuições
+
+<p>
+    <img
+        src="https://streak-stats.demolab.com?user=gusfavarini-lab&theme=tokyonight&locale=pt_BR"
+        alt="GitHub Streak"
+    />
+</p>
 ---
 
 ## 🚀 Tecnologias
