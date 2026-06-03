@@ -47,7 +47,13 @@ Atualmente estudo programação, desenvolvimento web e engenharia de software, c
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+<br/>
+<br/>
 
+---
+### 📈 Estatísticas
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 ---
 
 ## 📚 Atualmente Estudando
