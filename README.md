@@ -1,54 +1,76 @@
-a # 👋 Olá, eu sou Gustavo Gabriel Favarini
+<!-- ========================= -->
+<!-- BANNER -->
+<!-- ========================= -->
 
-## 💻 Desenvolvedor em Formação
+<p align="center">
+  <img src="https://i.imgur.com/3txnDGs.png" width="100%">
+</p>
+
+<h1 align="center">
+👋 Olá, eu sou Gustavo Gabriel Favarini
+</h1>
+
+<h3 align="center">
+💻 Desenvolvedor em Formação • 🎨 Designer • 🚀 Futuro Engenheiro de Software
+</h3>
+
+<br>
+
+<p align="center">
+  <img src="https://i.imgur.com/CQ9krHx.png" width="220px">
+</p>
+
+<br>
+
+
+---
+
+# 🚀 Sobre Mim
 
 Sou apaixonado por tecnologia, informática e desenvolvimento de software.
 
-Atualmente estudo programação, desenvolvimento web e engenharia de software, construindo projetos para evoluir minhas habilidades e ingressar profissionalmente na área de TI.
+Atualmente estudo programação, desenvolvimento web e engenharia de software, criando projetos para fortalecer meu portfólio e conquistar minha primeira oportunidade na área de TI.
 
-📍 Belo Horizonte - MG
+📍Belo Horizonte - Brasil
 
-<p align="left">
-    <a href="https://www.youtube.com/@gusfavarinirp?sub_confirmation=1">
-        <img 
-            alt="Inscritos no YouTube" 
-            title="Inscreva-se no meu canal"
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCW2iPmwqpU8kPwcRpsMU-Tw?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@gusfavarinirp">
-        <img 
-            alt="Visualizações no YouTube"
-            title="Visualizações no YouTube"
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCW2iPmwqpU8kPwcRpsMU-Tw?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a>
-    <a href="https://github.com/gusfavarini-lab?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas"
-            title="Total de estrelas GitHub"
-            src="https://custom-icon-badges.demolab.com/github/stars/gusfavarini-lab?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
-        />
-    </a>
-    <a href="https://github.com/gusfavarini-lab?tab=followers">
-        <img 
-            alt="Seguidores"
-            title="Me siga no GitHub"
-            src="https://custom-icon-badges.demolab.com/github/followers/gusfavarini-lab?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+---
+
+# 🌐 Redes
+
+<p align="center">
+
+<a href="https://github.com/gusfavarini-lab">
+<img src="https://img.shields.io/badge/GitHub-gusfavarini--lab-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.youtube.com/@GusFavariniRP">
+<img src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCW2iPmwqpU8kPwcRpsMU-Tw?color=FF0000&label=YouTube&logo=video&style=for-the-badge">
+</a>
+
+<a href="https://www.instagram.com/gus_favarini?igsh=cml5cHQ2bTYxeXYw&utm_source=qr">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/gustavo-favarini-b89452263/?isSelfProfile=false">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
 </p>
 
-<p align="left">
-    <img
-        src="https://komarev.com/ghpvc/?username=gusfavarini-lab&label=Visualizações%20do%20Perfil&color=0e75b6&style=for-the-badge"
-        alt="Contador de visitas"
-    />
-</p>
+---
 
-<br/>
+# 📊 Estatísticas GitHub
 
-## 🔥 Sequência de Contribuições
+<div align="center">
+
+<img height="180em" src="https://i.imgur.com/CQ9krHx.png"/>
+
+
+</div>
+
+<br>
+
+<div align="center">
 
 <p>
     <img
@@ -56,45 +78,78 @@ Atualmente estudo programação, desenvolvimento web e engenharia de software, c
         alt="GitHub Streak"
     />
 </p>
----
 
-## 🚀 Tecnologias
-
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
-<br/>
-<br/>
+</div>
 
 ---
 
-## 📚 Atualmente Estudando
+# 🛠️ Tecnologias
 
-- Desenvolvimento Web
-- JavaScript
-- Git e GitHub
-- Engenharia de Software
-- Segurança da Informação
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,linux,figma,photoshop"/>
+
+</p>
 
 ---
 
-## 🎯 Objetivos
+# 📚 Atualmente Estudando
+
+- 🌐 Desenvolvimento Web
+- ⚡ JavaScript
+- 🔧 Git e GitHub
+- 💻 Engenharia de Software
+- 🎨 UI / UX Design
+- 🤖 Inteligência Artificial
+
+---
+
+# 🎯 Objetivos
 
 - Conseguir minha primeira oportunidade em TI
-- Construir projetos reais
-- Aprimorar minhas habilidades em desenvolvimento
-- Contribuir para projetos open source
+- Construir projetos profissionais
+- Evoluir como Desenvolvedor Full Stack
+- Contribuir para projetos Open Source
+- Criar soluções que impactem pessoas
 
 ---
 
-## 📂 Projetos
+# 💼 Projetos em Destaque
 
-🔹 Em construção...
+## 🌟 🔹 Em construção...
+
+</p>
 
 ---
 
-## 📫 Contato
+# 📬 Contato
 
-GitHub: github.com/gusfavarini-lab
+<p align="center">
+
+<a href="mailto:gusfavarinirp@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.youtube.com/@GusFavariniRP">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube">
+</a>
+
+<a href="https://www.linkedin.com/in/gustavo-favarini-b89452263/?isSelfProfile=false">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=gusfavarini-lab&style=for-the-badge&color=blueviolet">
+
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://i.imgur.com/CQ9krHx.png" width="100%">
+</p>
